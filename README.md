@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @BriskUno
-- 👀 I’m interested in BasketBall
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on KingJames
+- 👋 Hi, I’m @jeje
+- 👀 I’m interested in Eating
+- 🌱 I’m currently learning Programming(charot)
 - 📫 How to reach me,Just go on our house!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
